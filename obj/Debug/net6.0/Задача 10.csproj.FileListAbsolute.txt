@@ -1,0 +1,5 @@
+C:\Users\3adrot\Desktop\Семинар 2\Задача 10\obj\Debug\net6.0\Задача 10.csproj.AssemblyReference.cache
+C:\Users\3adrot\Desktop\Семинар 2\Задача 10\obj\Debug\net6.0\Задача 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3adrot\Desktop\Семинар 2\Задача 10\obj\Debug\net6.0\Задача 10.AssemblyInfoInputs.cache
+C:\Users\3adrot\Desktop\Семинар 2\Задача 10\obj\Debug\net6.0\Задача 10.AssemblyInfo.cs
+C:\Users\3adrot\Desktop\Семинар 2\Задача 10\obj\Debug\net6.0\Задача 10.csproj.CoreCompileInputs.cache
